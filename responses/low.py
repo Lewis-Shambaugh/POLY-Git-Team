@@ -1,2 +1,2 @@
 def get_response():
-    return "Take a short break and get some water."
+    return "The coffee's brewing. Caffeinate and try again."
